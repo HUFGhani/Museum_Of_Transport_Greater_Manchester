@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gmts.museum_of_transport_greater_manchester.ScannedDetails">
+
+    <item
+        android:id="@+id/action_scan"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="100"
+        android:title="@string/action_scan"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_social"
+        android:icon="@drawable/ic_action_group"
+        android:orderInCategory="90"
+        android:title="@string/action_social"
+        app:showAsAction="always" />
+</menu>
