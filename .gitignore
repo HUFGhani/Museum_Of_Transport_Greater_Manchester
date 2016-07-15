@@ -25,3 +25,6 @@ proguard/
 
 # Log Files
 *.log
+
+#mac ox s a file that stores custom attributes 
+.DS_Store
